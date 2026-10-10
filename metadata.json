@@ -1,0 +1,6 @@
+{
+  "name": "DERIVA — Compiler Studio",
+  "description": "DERIVA Compiler Studio — Interactive Web-Based Compiler Construction & Visualization Platform for the Deriva Language",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
